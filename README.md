@@ -1,1 +1,1 @@
-# Kodluyoruz-2.odev
+# Kodluyoruz tarafından verilmiş 2. ödevdir.
